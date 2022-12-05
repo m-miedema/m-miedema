@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @m-miedema
 
 [![@mmiedema's Holopin board](https://holopin.me/mmiedema)](https://holopin.io/@mmiedema)
 
